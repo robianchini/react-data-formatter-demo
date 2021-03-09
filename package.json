@@ -1,6 +1,6 @@
 {
   "name": "react-data-formatter-website",
-  "homepage": "https://robianchini.github.io/react-data-formatter-playground",
+  "homepage": "http://robianchini.github.io/react-data-formatter-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
