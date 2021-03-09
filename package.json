@@ -1,8 +1,8 @@
 {
   "name": "react-data-formatter-website",
-  "homepage": "https://github.com/robianchini/react-data-formatter-demo",
-  "version": "1.1.1",
-  "private": true,
+  "homepage": "https://robianchini.github.io/react-data-formatter-demo",
+  "version": "1.1.2",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
