@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-data-formatter-demo/static/js/main.b00be3b7.chunk.js",
+    "main.js.map": "/react-data-formatter-demo/static/js/main.b00be3b7.chunk.js.map",
+    "runtime-main.js": "/react-data-formatter-demo/static/js/runtime-main.06089aea.js",
+    "runtime-main.js.map": "/react-data-formatter-demo/static/js/runtime-main.06089aea.js.map",
+    "static/js/2.d39935eb.chunk.js": "/react-data-formatter-demo/static/js/2.d39935eb.chunk.js",
+    "static/js/2.d39935eb.chunk.js.map": "/react-data-formatter-demo/static/js/2.d39935eb.chunk.js.map",
+    "index.html": "/react-data-formatter-demo/index.html",
+    "static/js/2.d39935eb.chunk.js.LICENSE.txt": "/react-data-formatter-demo/static/js/2.d39935eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06089aea.js",
+    "static/js/2.d39935eb.chunk.js",
+    "static/js/main.b00be3b7.chunk.js"
+  ]
+}
